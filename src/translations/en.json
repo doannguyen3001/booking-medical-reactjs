@@ -1,0 +1,57 @@
+{
+    "homeheader": {
+        "all": "All",
+        "athome": "At home",
+        "atinstitute": "At institute",
+        "livestrong": "Live strong",
+        "findadoctor": "Find a doctor",
+        "appointmentschedule": "Schedule",
+        "support": "Support",
+        "welcome": "Welcome, "
+
+
+        
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Users System",
+            "manage-doctor": "Manage doctors",
+            "manage-admin": "Manage admins",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD Redux",
+            "clinic": "Clinics",
+            "manage-clinic": "Manage clinics",
+            "specialty": "Specialties",
+            "manage-specialty": "Manage specialties",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage handbook"
+            
+        },
+        "doctor": {
+            "manage-schedule": "Manage Doctor's schedule"
+          }
+    },
+    "manage-user": {
+        "add": "Add a new user",
+        "email": "Email",
+        "password": "Password",
+        "first-name": "First name",
+        "last-name": "Last name",
+        "phone-number": "Phone number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "role": "Role",
+        "image": "Avatar",
+        "save": "Save user",
+        "edit": "Edit user"
+    },
+    "home-page": {
+        "out-standing-doctor": "Outstanding doctor",
+        "more-infor": "More infor"     
+     },
+     "manage-schedule": {
+        "title": "Manage doctor's medical examination plans"
+    }
+
+}
